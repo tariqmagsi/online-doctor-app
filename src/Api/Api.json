@@ -1,0 +1,4 @@
+{
+    "PATIENT_API" : "https://45e0ggnl51.execute-api.us-east-1.amazonaws.com/dev",
+    "DOCTOR_API" : "https://uupteukiy9.execute-api.us-east-1.amazonaws.com/dev"
+}
